@@ -7,3 +7,4 @@
 ## Kotlin :soon: :white_check_mark:
 
 ### University of Gdansk :mortar_board:
+### Computer Science :sparkles:
