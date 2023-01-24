@@ -14,5 +14,7 @@
 
 ---
 
+### Lufthansa Systems Engineer ✈️
 ### University of Gdansk :mortar_board:
 ### Computer Science :sparkles:
+
